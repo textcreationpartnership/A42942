@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's strange and terrible judgment in Oxford-shire being a true relation how a woman at Atherbury, having used divers horrid wishes and imprecations, was suddenly burn'd to ashes all on one side of her body, when there was no fire neer her; the other part of her remaining untouch'd, and not so much as sindg'd. The like heavy and visible judgement from heaven having scarce been known or heard of in any age. Licensed May the 10. 1677. Ro. L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42942</idno>
+            <idno type="STC">Wing G962</idno>
+            <idno type="STC">ESTC R218332</idno>
+            <idno type="EEBO-CITATION">99829936</idno>
+            <idno type="PROQUEST">99829936</idno>
+            <idno type="VID">34383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2030:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's strange and terrible judgment in Oxford-shire being a true relation how a woman at Atherbury, having used divers horrid wishes and imprecations, was suddenly burn'd to ashes all on one side of her body, when there was no fire neer her; the other part of her remaining untouch'd, and not so much as sindg'd. The like heavy and visible judgement from heaven having scarce been known or heard of in any age. Licensed May the 10. 1677. Ro. L'Estrange.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: A true and wonderful account how a woman was found half burnt without any fire neer her, &amp;c.</note>
+                  <note>Reproduction of the original in the Durham University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34383:1" rendition="simple:additions"/>
+            <p>GOD'S Strange and terrible Judgment IN Oxford-ſhire: Being a true RELATION How a Woman at <hi>Atherbury,</hi> Having uſed divers horrid Wiſhes and Imprecations, Was ſuddenly Burn'd to Aſhes all on one ſide of her Body, when there was no Fire neer her; the other part of her remaining untouch'd, and not ſo much as Sindg'd.</p>
+            <p>The like heavy and viſible Judgement from Heaven having ſcarce been known or heard of in any Age.</p>
+            <q>For our God is a conſuming fire.</q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>May</hi> the 10. 1677.</date>
+                           </dateline> 
+                           <signed>Ro. L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D.M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34383:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:34383:2"/>
+            <head>A true and wonderful Account how a Woman was found half burnt without any fire neer her, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>BEcauſe Judgment is not executed ſpeedily</hi> (ſaith Holy Writ) <hi>therefore are the wic<g ref="char:EOLhyphen"/>ked hardened in their impieties.</hi> If we conſider the horrid Oaths, the abomi<g ref="char:EOLhyphen"/>nable Curſes and Imprecations dayly practiſed and uſed in this ſinful Age, we might juſtly expect that the Earth ſhould open to ſwal<g ref="char:EOLhyphen"/>low ſuch Miſcreants alive to the pit of Hell; or the Heavens dart down Thunder-bolts on their guilty heads: <hi>But there is mercy with our God, that he may be feared:</hi> He waits upon rebellious Mor<g ref="char:EOLhyphen"/>tals to be gracious, having ſworn that he delights not in the death of a ſinner, but rather that he return, repent, and live: Yet will he not always ſuffer his holy Spirit to be grieved with a froward and obſtinate Generation, but ſometimes, for ma<g ref="char:EOLhyphen"/>nifeſtation and glory of his Juſtice, takes ſudden Vengeance (even in this life) on notorious Tranſ<g ref="char:EOLhyphen"/>greſſors of his holy Laws, and ſuch as may make
+<pb n="4" facs="tcp:34383:3"/>every ear to tingle, and heart to ake, that hears or conſiders it: For this is certain, though Divine Vengeance may ſeem to have <hi>leaden feet,</hi> yet it hath <hi>iron hands:</hi> Though Heaven ſtrikes <hi>ſlowly,</hi> it ſmites <hi>ſurely,</hi> and bruiſeth every ſtubborn Soul that ſtands out againſt it in rebellion, to powder, or everlaſting deſtruction.</p>
+            <p>Not to amuſe the Reader (who we hope is a better experienced Chriſtian than to need it) with a tedious Preamble to demonſtrate this ap<g ref="char:EOLhyphen"/>parent Truth, or quote (as we might do) various Hiſtories from worthy and credible Authors; as <hi>The Theatre of God's Judgments; Clarks Exam<g ref="char:EOLhyphen"/>ples,</hi> &amp;c. to parallel it; We ſhall only impartial<g ref="char:EOLhyphen"/>ly relate what within very few days happened in our own Nation; and which is not only moſt no<g ref="char:EOLhyphen"/>torious in all the neighbouring Countie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but alſo ready to be teſtified by divers ſober perſons of unblemiſh'd Credit in this City for an undoubt<g ref="char:EOLhyphen"/>ed Truth, too certain to be denied by any but an Infidel, too remarkable to be ſlighted by any but an Atheiſt.</p>
+            <p>We could tell you the Perſons Name and Abode which is the unhappy Subject of this Relation, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat our buſineſs is to make a Report of the Judgement, without blaſting the Perſon to whom God in his mercy may yet have granted the grace of a timely Repentance, for ought that is known to u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: So that ſince it hath pleaſed Providence to take her out of the Land of the Living, we ſhall pay that reſpect to the charitable Proverb, which adviſeth, <hi>Not to ſpeak ill of the dead,</hi> as
+<pb n="5" facs="tcp:34383:3"/>not to blazon her Vices or Infirmities further than is neceſſary to the declaration of Truth, and cautioning of others ſurviving; the main and in<g ref="char:EOLhyphen"/>deed only end of this Publication.</p>
+            <p>This unhappy Woman, then, keeping a ſmall Ale houſe, had too much addicted herſelf to lewd Speeches, ſometimes Oaths, and frequent<g ref="char:EOLhyphen"/>ly Curſes, as well on herſelf as others: It hapned ſome few days ſince, being all alone in her Houſe, a woman, one of her Neighbours, came thither for ſome ſtrong Drink ſhe had occaſion for; which ſhe having drawn, and received Twelve Pence, or ſome ſuch piece of Money, inſtead of juſtly returning the full Change, ſtopt and abated two pence or three pence out of it, be<g ref="char:EOLhyphen"/>ſides what the preſent Drink came to, pretending there was ſo much formerly due and owing to her. Which the other reſolutely denying, the Hoſteſs began to Swear, and uſe ſeveral profane and abominable Wiſhes and Imprecations, ſaying, <hi>God damn me, and the Devil burn me if it be not ſo:</hi> which laſt words ſhe often repeated. How<g ref="char:EOLhyphen"/>ever, the other, confident perhaps in the certainty of her knowledge to the contrary, ſtill perſiſting to deny it, and refuſing to be gone without the reſt of her Money; The Ale-wife at laſt vio<g ref="char:EOLhyphen"/>lently thruſt her out of her houſe; and to pre<g ref="char:EOLhyphen"/>vent her coming in again, ſhut the Door, and lockt it againſt her.</p>
+            <p>Thus with many horrid ſinful expreſſions (if not down right perjuries) this poor Wretch made ſhift to wrangle her Neighbour out of this petty in<g ref="char:EOLhyphen"/>conſiderable
+<pb n="6" facs="tcp:34383:4"/>ſum, but is like to pay lamentable dear for the ſame. For, behold! by a ſtupen<g ref="char:EOLhyphen"/>dious and terrible Judgment from Heaven, as we cannot but ſuppoſe, ſhe was immediately called to an account, and burnt to Death, as ſhe had fooliſhly and wickedly wiſht, in a wonderful and unheard-of manner: For having ſo ſhut and lockt the door, the ſame was not opened, nor any further news heard of her, till ſeveral hours after, her Husband chanc'd to come home, and wondering to finde his Door faſt ſhut, in the middle of the day, without being able to make any body anſwer within, enquired amongſt his Neighbours, if they ſaw his Wife go forth? Which they all denied; adding, that they rather believed, having wearied herſelf with ſcolding and railing at <hi>Goody ſuch an one,</hi> ſhe was fallen aſleep; whereupon the man at laſt forc'd open the door, with one or two of his Neighbours: which was no ſooner done, but their Eyes en<g ref="char:EOLhyphen"/>countred one of the moſt ſad and diſmal Specta<g ref="char:EOLhyphen"/>cles that ever Mortal beheld; For in the midſt of the floor lay the Reliques of his Wife, one Side of her Body and the Cloaths thereupon, from the Soal of her Foot to the Crown of the Head being conſumed and burnt to Aſhes, and nothing left but the Skeleton, or part of the Bones; whereas the other Side remained whole, and the Cloaths there on not ſo much as toucht or ſindg'd; though it was obſerved, that the Fleſh and Skin there was all turn'd black, as if it had been blaſted with Lightning.</p>
+            <pb n="7" facs="tcp:34383:4"/>
+            <p> I need not ſtand to relate how affrighted and amazed her Hu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>band and Friends were to behold this ghaſtly ſight, eſpecially for that they could no where neer her ſee the leaſt ſpark or ſymptome of Fire, and were well aſſured that there had not been any at all in the houſe all that day. Their conſternation indeed was inexpreſſible, and there<g ref="char:EOLhyphen"/>fore I ſhall not vainly attempt to ſhadow it forth in words; nor any further deſcant on this ſtrange and aſtoniſhing procedure of Providence, ſave onely to recommend it to the ſerious conſidera<g ref="char:EOLhyphen"/>tion of all thoſe that have been, or may be guil<g ref="char:EOLhyphen"/>ty of ſuch Crying Provocations. How knoweſt thou, oh thou wretched ſinner, when thou art impudently blaſpheming Heaven, and at every other word in thy drunken Frolicks, or hair<g ref="char:EOLhyphen"/>brain'd Paſſion, <hi>calling upon God,</hi> but not to have mercy on thee, or pardon thee, but <hi>to damn thee,</hi> wiſhing (as if thou wouldſt dare Omnipotent Ju<g ref="char:EOLhyphen"/>ſtice) that he would <hi>confound, ſink, rot thee,</hi> or the like deteſtable Expreſſions; how art thou aſſured, I ſay, that whilſt thou art thus ranting, and treaſuring up ſo faſt <hi>wrath againſt the day of wrath</hi> (as the Apoſtle ſpeaks) God will per<g ref="char:EOLhyphen"/>mit that roaring Lion that goes about ſeeking whom he may devour, to tear thee in pieces, or hurry thee quick into the Eternal Flames? Can you, dare you pretend your ſelves Chriſtians, and live in the practice of ſuch, worſe than hea<g ref="char:EOLhyphen"/>theniſh Blaſphemies? Know you not that there is a ſure and dreadful account to be given for every <hi>idle word?</hi> and oh, then, what will you in that
+<pb n="8" facs="tcp:34383:5"/>day be able to ſay in excuſe of theſe black and frightful Imprecations? If the <hi>Righteous ſcarcely be ſaved, where ſhall the wicked and ungodly</hi> (ſuch profligate Sinners, Swearers, Curſers, Blaſ<g ref="char:EOLhyphen"/>phemers, and Atheiſts) <hi>appear?</hi> Deſtruction and Bitterneſs ſhall be their latter end, yelping and gnaſhing of teeth their employment, tormenting Devils their Companions, and Fire and Brimſtone, Pain and Anguiſh, Rage, Deſpair, and horrible Darkneſs their portion, and that (Oh that they would conſider it before it be to late too prevent it) to all Eternity.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
